@@ -1,2 +1,2 @@
 create table table_name
-my name is navya and i am a pandi
+my name is navya and i am a good girl
